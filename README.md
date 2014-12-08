@@ -11,6 +11,11 @@ A solarized color scheme addon for Firefox and Evernote Clearly addon.
 
 Visit [official garally site of Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/solarized-clearly/) and click "Add to Firefox" button.
 
+### NOTICE
+
+The submission is rejected by a reviewer of add-ons garally.  
+I am trying to solve the problem.
+
 ## Usage
 
 Solarized theme will be enabled when solarized-clearly is enabled.  
